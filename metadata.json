@@ -1,0 +1,6 @@
+{
+  "name": "一人公司 AI 开发助手与蓝图 Hub",
+  "description": "一人公司 AI 开发完整实战手册完整交互工具箱：包含 11 步实战工作流、痛点过滤评估、一键 PRD 模板生成、ASO 规则分析以及 Gemini 智能 AI Copilot 生成引擎。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
